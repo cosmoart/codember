@@ -10,5 +10,5 @@ Mis soluciones a los retos de [codember](https://codember.dev) hechos en JavaScr
 
 ## Retos
 
-- [Reto 1](https://github.com/cosmoart/codember/retos/challenge01.md)
-- [Reto 2](https://github.com/cosmoart/codember/retos/challenge02.md)
+- [Reto 1](https://github.com/cosmoart/codember/blob/main/retos/challenge01.md)
+- [Reto 2](https://github.com/cosmoart/codember/blob/main/retos/challenge02.md)
