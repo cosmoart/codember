@@ -60,4 +60,4 @@ Un simple comando que te tira confeti.
 <br/>
 <br/>
 
-**_IMPORTANTE:_** Todos los comandos estan ingles.
+**_IMPORTANTE:_** Todos los comandos deben estar en inglés.
