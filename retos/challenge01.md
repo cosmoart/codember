@@ -52,19 +52,15 @@ submit 482@midudev
 
 ```js
 const fs = require('fs')
-
 const data = fs.readFileSync('./users.txt', 'utf8')
 
-let users = data.split(/\r?\n\r?\n/)
+const KEYS = ['usr', 'eme', 'psw', 'age', 'loc', 'fll']
 
-const validUsers = users.filter(user => {
- const KEYS = ['usr', 'eme', 'psw', 'age', 'loc', 'fll']
- return KEYS.every(key => user.includes(key))
-})
+const validUsers = data.split(/\r?\n\r?\n/).filter(user => KEYS.every(key => user.includes(key)))
 
 let lastValidUser = validUsers[validUsers.length - 1].split(" ").filter(user => user.includes('usr'))[0].split(':')[1]
 
-console.log(validUsers.length, lastValidUser)
+console.log(validUsers.length, lastValidUser) // 156 @giroz
 ```
 
 ## Respuesta

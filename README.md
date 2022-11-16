@@ -44,6 +44,7 @@ Un simple comando que te tira confeti.
 
 - Un comando que se encuentra en la lista de ayuda (help) te da una pista.
 - Es un juego famoso que salio para la Game Boy.
+- Consta de dos palabras: `___ ___`.
 
 <!-- $ play tetris --- Con llenar una linea horizontal basta -->
 
