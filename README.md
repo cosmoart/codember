@@ -66,8 +66,7 @@ Un simple comando que te tira confeti.
 
 ### 👽 7) Contra
 
-_Contra_ es un antiguo videojuego muy difícil, para ello existían varios trucos que lo hacían más fácil.
-
+- En el juego _Contra_, había varios trucos que hacían el juego más fácil.
 - Hacer `Círculo, L1, Izquierda, R1, L2, X, R1, L1, Círculo, X` en _GTA V_ te da un cochecito de golf.
 
 <br/>
