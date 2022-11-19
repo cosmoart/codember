@@ -25,7 +25,11 @@ Pistas:
 - Los espacios en blanco parece que son simplemente espacios...
 
 Cómo enviar la solución
-- Usa el comando "submit" para enviar tu solución con la frase descifrada, en minúsculas y respetando los espacios en blanco. Por ejemplo: `$ submit this is fine`
+- Usa el comando "submit" para enviar tu solución con la frase descifrada, en minúsculas y respetando los espacios en blanco. Por ejemplo:
+
+```bash
+$ submit this is fine
+```
 
 ## Solución
 

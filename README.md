@@ -12,17 +12,17 @@ Mis soluciones a los retos de [codember](https://codember.dev) hechos en JavaScr
 
 - [Reto 1](https://github.com/cosmoart/codember/blob/main/retos/challenge01.md)
 - [Reto 2](https://github.com/cosmoart/codember/blob/main/retos/challenge02.md)
-
+- [Reto 3](https://github.com/cosmoart/codember/blob/main/retos/challenge03.md)
 
 ## Secretos
 
-### 🖼️ Imagen corrupta
+### 🖼️ 1) Imagen corrupta
 
 Navegando por las carpetas te puedes encontrar con una imagen corrupta que puedes ver con el comando que lee archivos. En la imagen se encuentra un comando que debes completar con el nombre de la persona que aparece allí.
 
 <!-- $ say elon musk -->
 
-### 🐮 La vaca
+### 🐮 2) La vaca
 
 - La **vaca** te **dice** lo que debes hacer.
 - Prueba con los nuevos comandos.
@@ -30,7 +30,7 @@ Navegando por las carpetas te puedes encontrar con una imagen corrupta que puede
 
 <!-- $ ping midu.dev -->
 
-### 🎊 Confeti
+### 🎊 3) Confeti
 
 Un simple comando que te tira confeti.
 
@@ -40,7 +40,7 @@ Un simple comando que te tira confeti.
 
 <!-- $ confetti  --- Enviar el comando varias veces -->
 
-### 🕹️ Minijuego
+### 🕹️ 4) Minijuego
 
 - Un comando que se encuentra en la lista de ayuda (help) te da una pista.
 - Es un juego famoso que salio para la Game Boy.
@@ -48,7 +48,7 @@ Un simple comando que te tira confeti.
 
 <!-- $ play tetris --- Con llenar una linea horizontal basta -->
 
-### 🛢️ Rick roll
+### 🛢️ 5) Rick roll
 
 - Usa el comando `do` con tres parametros: `do ___ ___ ___`.
 - Es una frase icónica de un juego de la Nintendo 64.
@@ -58,7 +58,18 @@ Un simple comando que te tira confeti.
 
 <!-- $ do a barrel roll -->
 
+### 🎭 6) Somos legión
+
+- Tienes un nuevo mensaje, puedes leerlo con el nuevo comando.
+- El nuevo comando puede hacer dos cosas:
+	- Listar los mensajes.
+	- Leer el **contenido** de un mensaje.
+- "109105100117" -> midu
+
 <br/>
 <br/>
 
-**_IMPORTANTE:_** Todos los comandos deben estar en inglés.
+**_IMPORTANTE:_**
+
+- Todos los comandos deben estar en inglés.
+- En el archivo `CHANGELOG.md` puede haber pistas extra.
