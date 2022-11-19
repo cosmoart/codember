@@ -61,10 +61,14 @@ Un simple comando que te tira confeti.
 ### 🎭 6) Somos legión
 
 - Tienes un nuevo mensaje, puedes leerlo con el nuevo comando.
-- El nuevo comando puede hacer dos cosas:
-	- Listar los mensajes.
-	- Leer el **contenido** de un mensaje.
+- Puedes obtener ayuda poniendo el nuevo comando con el parametro `--help`: `___ --help`.
 - "109105100117" -> midu
+
+### 👽 7) Contra
+
+_Contra_ es un antiguo videojuego muy difícil, para ello existían varios trucos que lo hacían más fácil.
+
+- Hacer `Círculo, L1, Izquierda, R1, L2, X, R1, L1, Círculo, X` en _GTA V_ te da un cochecito de golf.
 
 <br/>
 <br/>
