@@ -67,7 +67,7 @@ Un simple comando que te tira confeti.
 ### 👽 7) Contra
 
 - En el juego _Contra_, había varios trucos que hacían el juego más fácil.
-- Por ejemplo, hacer `Círculo, L1, Izquierda, R1, L2, X, R1, L1, Círculo, X` en _GTA V_ te da un cochecito de golf.
+- Por ejemplo, hacer `Círculo, L1, Izquierda, R1, L2, X, R1, L1, Círculo, X` en _GTA V_ te da un coche de golf.
 - No es necesario enviar un comando.
 
 <br/>
