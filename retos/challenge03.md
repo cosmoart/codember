@@ -35,33 +35,13 @@ $ submit 62@red
 ## Solución
 
 ```js
-const fs = require('fs')
-const colors = JSON.parse(fs.readFileSync('./colors.json', 'utf8'))
 
-let actualMax = 1
-let lastMax = colors[0]
-
-colors.map((_, index) => {
-	let counter = 1
-
-	if (colors[index] === colors[index + 1]) return
-	else counter++
-
-	while (colors[index + counter] === colors[index + counter - 2]) counter++
-
-	if (counter > actualMax) {
-		actualMax = counter
-		lastMax = colors[index + counter - 1]
-	}
-})
-
-console.log(`${actualMax}@${lastMax}`) // 30@red
 ```
 
 ## Respuesta
 
 ```bash
-$ submit 30@red
+$ submit
 ```
 
 [⬆️ Subir](#challengue-01)
