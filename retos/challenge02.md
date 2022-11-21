@@ -36,11 +36,11 @@ $ submit this is fine
 ```js
 const ENCRYPTED = "11610497110107115 102111114 11210897121105110103 9911110010110998101114 11210810197115101 11510497114101"
 
-const wordCharacters = ENCRYPTED.match(/1\d{2}|9\d{1}/g)
+const arrayCharacters = ENCRYPTED.match(/1\d\d|2\d\d|\d\d|\s/g)
 
-let message = String.fromCharCode(...wordCharacters)
+let message = arrayCharacters.map(char => char === " " ? " " : String.fromCharCode(char)).join("")
 
-console.log(message) // thanksforplayingcodemberpleaseshare
+console.log(message) // thanks for playing codember please share
 ```
 
 ## Respuesta

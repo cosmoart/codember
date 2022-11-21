@@ -60,7 +60,7 @@ const validUsers = data.split(/\r?\n\r?\n/).filter(user => KEYS.every(key => use
 
 let lastValidUser = validUsers[validUsers.length - 1].split(" ").filter(user => user.includes('usr'))[0].split(':')[1]
 
-console.log(validUsers.length, lastValidUser) // 156 @giroz
+console.log(validUsers.length,lastValidUser) // 156@giroz
 ```
 
 ## Respuesta
