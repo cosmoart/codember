@@ -32,13 +32,22 @@ $ submit 87-35522
 ## Solución
 
 ```js
+let passwords = []
 
+for (let i = 11098; i <= 98123; i++) {
+	if (i.toString().match(/5{2,}/g) === null) continue
+	if (i.toString().split('').sort().join('') !== i.toString()) continue
+
+	passwords.push(i)
+}
+
+console.log(`${passwords.length}-${passwords[55]}`) // 165-23555
 ```
 
 ## Respuesta
 
 ```bash
-$
+$ submit 165-23555
 ```
 
 [⬆️ Subir](#challengue-01)
