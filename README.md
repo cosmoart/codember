@@ -64,11 +64,15 @@ Un simple comando que te tira confeti.
 - Puedes obtener ayuda poniendo el nuevo comando con el parametro `--help`: `___ --help`.
 - "109105100117" -> midu
 
+<!-- submit t8vjh832948fcnal -->
+
 ### 👽 7) Contra
 
 - En el juego _Contra_, había varios trucos que hacían el juego más fácil.
 - Por ejemplo, hacer `Círculo, L1, Izquierda, R1, L2, X, R1, L1, Círculo, X` en _GTA V_ te da un coche de golf.
 - No es necesario enviar un comando.
+
+<!-- ⬆️, ⬆️, ⬇️, ⬇️, ⬅️, ➡️, ⬅️, ➡️, B, A  -->
 
 <br/>
 <br/>

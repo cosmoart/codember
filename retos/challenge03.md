@@ -35,13 +35,33 @@ $ submit 62@red
 ## Solución
 
 ```js
+const fs = require('fs')
+const colors = JSON.parse(fs.readFileSync('./colors.json', 'utf8'))
 
+let maxZebra = 1
+let actualZebra = 1
+let lastColor = colors[0]
+
+colors.map((_, index) => {
+	if (colors[index] === colors[index + 1]) return actualZebra = 1
+
+	if (colors[index + 1] !== colors[index - 1]) return actualZebra = 2
+
+	actualZebra++
+
+	if (actualZebra >= maxZebra) {
+		maxZebra = actualZebra
+		lastColor = colors[index - 1]
+	}
+})
+
+console.log(`${maxZebra}@${lastColor}`) // 30@red
 ```
 
 ## Respuesta
 
 ```bash
-$ submit
+$ submit 30@red
 ```
 
 [⬆️ Subir](#challengue-01)
