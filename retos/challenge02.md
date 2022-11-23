@@ -49,6 +49,6 @@ console.log(message) // thanks for playing codember please share
 $ submit thanks for playing codember please share
 ```
 
-[⬆️ Subir](#challengue-01)
+[⬆️ Subir](#challengue-02)
 
 [⬅️ Regresar](https://github.com/cosmoart/codember)

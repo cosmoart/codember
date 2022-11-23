@@ -1,6 +1,7 @@
 [⬅️ Regresar](https://github.com/cosmoart/codember)
 
-# Challengue #02
+# Challengue #04
+
 Un amigo compró 5 BitCoins en 2008. El problema es que lo tenía en un monedero digital... ¡y no se acuerda de la contraseña!
 
 Nos ha pedido ayuda. Y nos ha dado algunas pistas:
@@ -50,6 +51,6 @@ console.log(`${passwords.length}-${passwords[55]}`) // 165-23555
 $ submit 165-23555
 ```
 
-[⬆️ Subir](#challengue-01)
+[⬆️ Subir](#challengue-04)
 
 [⬅️ Regresar](https://github.com/cosmoart/codember)

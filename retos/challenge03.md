@@ -64,6 +64,6 @@ console.log(`${maxZebra}@${lastColor}`) // 30@red
 $ submit 30@red
 ```
 
-[⬆️ Subir](#challengue-01)
+[⬆️ Subir](#challengue-03)
 
 [⬅️ Regresar](https://github.com/cosmoart/codember)
