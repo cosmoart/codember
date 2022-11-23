@@ -36,7 +36,7 @@ $ submit 87-35522
 let passwords = []
 
 for (let i = 11098; i <= 98123; i++) {
-	if (i.toString().match(/5{2,}/g) === null) continue
+	if (!i.toString().includes("55")) continue
 	if (i.toString().split('').sort().join('') !== i.toString()) continue
 
 	passwords.push(i)
