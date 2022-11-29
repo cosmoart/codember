@@ -74,12 +74,9 @@ const data = JSON.parse(ls.readFileSync('./mecenas.json', 'utf8'))
 let mecenas = data.map((m, i) => m = m + "-" + i)
 
 while (mecenas.length > 1) {
-	mecenas.forEach((element, i) => {
-		if (i == mecenas.length - 1) {
-			mecenas.splice(0, 1)
-		} else {
-			mecenas.splice(i + 1, 1)
-		}
+	mecenas.forEach((_, i) => {
+		if (i == mecenas.length - 1) mecenas.splice(0, 1)
+		else mecenas.splice(i + 1, 1)
 	});
 }
 
