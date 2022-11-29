@@ -14,6 +14,7 @@ Mis soluciones a los retos de [codember](https://codember.dev) hechos en JavaScr
 - [Reto 2](https://github.com/cosmoart/codember/blob/main/retos/challenge02.md)
 - [Reto 3](https://github.com/cosmoart/codember/blob/main/retos/challenge03.md)
 - [Reto 4](https://github.com/cosmoart/codember/blob/main/retos/challenge04.md)
+- [Reto 5](https://github.com/cosmoart/codember/blob/main/retos/challenge05.md)
 
 ## Secretos
 
@@ -74,6 +75,11 @@ Un simple comando que te tira confeti.
 - No es necesario enviar un comando.
 
 <!-- ⬆️, ⬆️, ⬇️, ⬇️, ⬅️, ➡️, ⬅️, ➡️, B, A  -->
+
+### 📦 8) npm run init
+
+- Ahora se puede acceder a la carpeta `public` con el comando.
+- Escribe los comandos sin abreviarlos.
 
 <br/>
 <br/>
