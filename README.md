@@ -81,6 +81,8 @@ Un simple comando que te tira confeti.
 - Ahora se puede acceder a la carpeta `public` con el comando.
 - Escribe los comandos sin abreviarlos.
 
+<!-- submit bug -->
+
 <br/>
 <br/>
 
