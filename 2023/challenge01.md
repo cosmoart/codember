@@ -26,13 +26,19 @@ casas casa casasas -> casas1casa1casas1
 ## Solución
 
 ```js
-
+function contarPalabras (mensaje) {
+	return mensaje.toLowerCase().split(" ").reduce((acc, palabra) => {
+		if (acc.includes(palabra)) acc[acc.indexOf(palabra) + 1] += 1;
+		else acc.push(palabra, 1);
+		return acc;
+	}, []).join("");
+}
 ```
 
 ## Respuesta
 
 ```bash
-
+submit murcielago15leon15jirafa15cebra6elefante15rinoceronte15hipopotamo15ardilla15mapache15zorro15lobo15oso15puma2jaguar14tigre10leopardo10gato12perro12caballo14vaca14toro14cerdo14oveja14cabra14gallina10pato10ganso10pavo10paloma10halcon11aguila11buho11colibri9canario8loro8tucan8pinguino7flamenco7
 ```
 
 [⬆️ Subir](#challengue-01)
