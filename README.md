@@ -108,6 +108,7 @@ Un simple comando que te tira confeti.
 ### Retos
 
 - [Reto 1](https://github.com/cosmoart/codember/blob/main/2023/challenge01.md)
+- [Reto 2](https://github.com/cosmoart/codember/blob/main/2023/challenge02.md)
 
 
 ### Secretos
@@ -137,5 +138,27 @@ Un simple comando que te tira confeti.
 - Recuerda usar el formato correcto para la fecha.
 
 <!-- $ submit 2023-12-01 -->
+
+#### 🎊 4) Confeti
+
+- Puedes leer el archivo `CHANGELOG.txt` para obtener información de la nueva versión.
+- El que persevera alcanza.
+
+<!-- $ confetti  --- Enviar el comando varias veces -->
+
+#### 🪄 5) Magia!
+
+- Puedes leer el archivo `CHANGELOG.txt` para obtener información de la nueva versión.
+- Es solo una palabra, en minúsculas.
+- Existe una película de Disney con el mismo nombre.
+
+
+<!-- $ submit itsmagic -->
+
+#### 🟧 6) Adivinanza
+
+- Tienes un nuevo email, puedes ver tus emails con el comando `mail`.
+- Para leer un email usa el comando `mail <id>`.
+- Debes enviarlo con el comando submit: `submit <respuesta>`.
 
 </details>
