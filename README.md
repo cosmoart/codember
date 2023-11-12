@@ -161,4 +161,6 @@ Un simple comando que te tira confeti.
 - Para leer un email usa el comando `mail <id>`.
 - Debes enviarlo con el comando submit: `submit <respuesta>`.
 
+<!-- $ submit html -->
+
 </details>
