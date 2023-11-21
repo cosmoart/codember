@@ -126,8 +126,8 @@ Un simple comando que te tira confeti.
 #### 🧑🏻‍🦲 2) Say my name
 
 - Usa los comandos para moverte entre carpetas y leer archivos. (Usa el comando `help` para obtener una lista de los comandos disponibles).
-- `name` No es lo mismo que `last-name`
 - La persona es el CEO de una importante empresa de hosting que empieza con V y termina con l.
+- `name` No es lo mismo que `last-name`
 
 <!-- $ submit rauch -->
 
@@ -162,5 +162,29 @@ Un simple comando que te tira confeti.
 - Debes enviarlo con el comando submit: `submit <respuesta>`.
 
 <!-- $ submit html -->
+
+#### 🛢️ 7) Giro de barril
+
+- Puedes leer el archivo `CHANGELOG.txt` para obtener información de la nueva versión.
+- Usa el comando `do` con tres parametros: `do ___ ___ ___`.
+- La frase tiene sentido, por ejemplo: `do a task now`.
+- El comando es en inglés.
+- Es una frase icónica de un juego de la Nintendo 64.
+- Es un easter egg en Google.
+
+<!-- $ do a barrel roll -->
+
+#### 🧑‍🚀 8) Astronauta
+
+- Para este secreto necesitas acceder a la carpeta `private`. El *mail* numero 3 te dice como acceder.
+- En la carpeta `private` podrás leer el archivo `log_mars_mission.txt` con el comando cat: `cat log_mars_mission.txt`.
+
+#### 🧑🏻‍🦲 9) Say my last name
+
+- Para este secreto necesitas acceder a la carpeta `private`. El *mail* numero 3 te dice como acceder.
+- En la carpeta `private` podrás ver la imagen `ai.webp` con el comando cat: `cat ai.webp`.
+- La persona **era** el CEO de una importante empresa de IA que empieza con O y termina con a.
+- La persona ha sido noticia recientemente debido a su despido.
+- `name` No es lo mismo que `last-name`
 
 </details>

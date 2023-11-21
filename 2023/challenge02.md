@@ -47,7 +47,7 @@ submit 024899488
 function miniCompilador (input) {
 	let value = 0;
 	return input.split("&").slice(0, -1).reduce((acc, curr) => {
-		[...curr].forEach((item, _) => {
+		[...curr].forEach(item => {
 			if (item === "#") value++;
 			if (item === "@") value--;
 			if (item === "*") value *= value;
