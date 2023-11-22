@@ -109,6 +109,7 @@ Un simple comando que te tira confeti.
 
 - [Reto 1](https://github.com/cosmoart/codember/blob/main/2023/challenge01.md)
 - [Reto 2](https://github.com/cosmoart/codember/blob/main/2023/challenge02.md)
+- [Reto 3](https://github.com/cosmoart/codember/blob/main/2023/challenge03.md)
 
 
 ### Secretos
@@ -179,6 +180,8 @@ Un simple comando que te tira confeti.
 - Para este secreto necesitas acceder a la carpeta `private`. El *mail* numero 3 te dice como acceder.
 - En la carpeta `private` podrás leer el archivo `log_mars_mission.txt` con el comando cat: `cat log_mars_mission.txt`.
 
+<!-- $ submit majortom -->
+
 #### 🧑🏻‍🦲 9) Say my last name
 
 - Para este secreto necesitas acceder a la carpeta `private`. El *mail* numero 3 te dice como acceder.
@@ -186,5 +189,7 @@ Un simple comando que te tira confeti.
 - La persona **era** el CEO de una importante empresa de IA que empieza con O y termina con a.
 - La persona ha sido noticia recientemente debido a su despido.
 - `name` No es lo mismo que `last-name`
+
+<!-- submit Altman -->
 
 </details>
