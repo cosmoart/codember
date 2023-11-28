@@ -110,6 +110,7 @@ Un simple comando que te tira confeti.
 - [Reto 1](https://github.com/cosmoart/codember/blob/main/2023/challenge01.md)
 - [Reto 2](https://github.com/cosmoart/codember/blob/main/2023/challenge02.md)
 - [Reto 3](https://github.com/cosmoart/codember/blob/main/2023/challenge03.md)
+- [Reto 4](https://github.com/cosmoart/codember/blob/main/2023/challenge04.md)
 
 
 ### Secretos
@@ -191,5 +192,15 @@ Un simple comando que te tira confeti.
 - `name` No es lo mismo que `last-name`
 
 <!-- submit Altman -->
+
+#### 🐄 10) La vaca dice
+
+- Puedes leer el archivo `CHANGELOG.txt` para obtener información de la nueva versión.
+- La **vaca** te **dice** lo que debes hacer.
+- Es un solo comando formado por dos palabras juntas en inglés.
+-	Referencia a un famoso paquete de npm.
+
+<!-- cowsay -->
+<!-- submit ping -->
 
 </details>

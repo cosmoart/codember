@@ -54,6 +54,6 @@ function clavesInvalidas (claves) {
 submit bgamidqewtbus
 ```
 
-[⬆️ Subir](#challengue-02)
+[⬆️ Subir](#challengue-03)
 
 [⬅️ Regresar](https://github.com/cosmoart/codember)
