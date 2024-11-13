@@ -399,11 +399,10 @@ Un simple comando que te tira confeti.
 
 <br/>
 
-- L
-- P
-- T
+- Presta atención al ultimo texto que da el comando `version` ![version](image.png)
+- Decodifica en Base64
+- La fecha te la da el comando `version`
 
-<!-- $ ping midu.dev -->
 <br/>
 </details>
 
@@ -413,11 +412,9 @@ Un simple comando que te tira confeti.
 
 <br/>
 
-- L
-- P
-- T
+- Navegando por las carpetas te puedes encontrar con la imagen "image.webp".
+- Usa los comandos `ls`,`cd` y `cat` para moverte entre carpetas y leer archivos.
 
-<!-- $ ping midu.dev -->
 <br/>
 </details>
 
@@ -427,11 +424,12 @@ Un simple comando que te tira confeti.
 
 <br/>
 
-- L
-- P
-- T
+`/hint - Pista #02`
+- En el juego de la NES *Contra* había varios trucos que hacían el juego más fácil, tienes que ejecutar uno de ellos.
+- Por ejemplo, hacer Círculo, L1, Izquierda, R1, L2, X, R1, L1, Círculo, X en GTA V te da un coche de golf.
+- No es necesario enviar un comando, solo hacer una combinación de teclas.
+- En Contra este truco te daba 30 vidas.
 
-<!-- $ ping midu.dev -->
 <br/>
 </details>
 
@@ -441,11 +439,9 @@ Un simple comando que te tira confeti.
 
 <br/>
 
-- L
-- P
-- T
+`/hint - Pista #05`
+- Para compartir codember.dev usa el comando `share`.
 
-<!-- $ ping midu.dev -->
 <br/>
 </details>
 
@@ -456,11 +452,8 @@ Un simple comando que te tira confeti.
 
 <br/>
 
-- L
-- P
-- T
+`/hint - Pista #02`
 
-<!-- $ ping midu.dev -->
 <br/>
 </details>
 
@@ -470,11 +463,9 @@ Un simple comando que te tira confeti.
 
 <br/>
 
-- L
-- P
-- T
+- Usa el comando `sudo` para iniciar sesión como administrador.
+- Elimina al hacker que va ganando.
 
-<!-- $ ping midu.dev -->
 <br/>
 </details>
 
