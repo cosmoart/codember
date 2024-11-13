@@ -383,8 +383,100 @@ Un simple comando que te tira confeti.
 ## 2024
 
 <details>
-<summary>Próximamente...</summary>
+<summary>Retos y secretos</summary>
 
+
+### Retos
+
+- [Reto 1](https://github.com/cosmoart/codember/blob/main/2024/challenge01.md)
+- [Reto 2](https://github.com/cosmoart/codember/blob/main/2024/challenge02.md)
+
+
+### Secretos
+
+<details>
+<summary>🌌 1) ¡Multiverso a salvo!</summary>
+
+<br/>
+
+- L
+- P
+- T
+
+<!-- $ ping midu.dev -->
+<br/>
+</details>
+
+
+<details>
+<summary>🔥 2) ¿Todo estará bien?</summary>
+
+<br/>
+
+- L
+- P
+- T
+
+<!-- $ ping midu.dev -->
+<br/>
+</details>
+
+
+<details>
+<summary>👽 3) Contra</summary>
+
+<br/>
+
+- L
+- P
+- T
+
+<!-- $ ping midu.dev -->
+<br/>
+</details>
+
+
+<details>
+<summary>📷 4) Observador Innato</summary>
+
+<br/>
+
+- L
+- P
+- T
+
+<!-- $ ping midu.dev -->
+<br/>
+</details>
+
+
+
+<details>
+<summary>🎊 5) Confetti lanzado</summary>
+
+<br/>
+
+- L
+- P
+- T
+
+<!-- $ ping midu.dev -->
+<br/>
+</details>
+
+
+<details>
+<summary>👨‍💻 6) Hacker eliminado</summary>
+
+<br/>
+
+- L
+- P
+- T
+
+<!-- $ ping midu.dev -->
+<br/>
+</details>
 
 </details>
 
@@ -403,7 +495,7 @@ Un simple comando que te tira confeti.
 			</th>
 			<th>
 				<a href="https://github.com/cosmoart/codember" target="_blank" rel="noopener noreferrer">
-					<img src="./assets/codember.avif" title="Codember"/>
+					<img src="./assets/codember.webp" title="Codember"/>
 				</a>
 			</th>
 			<th>
