@@ -399,7 +399,7 @@ Un simple comando que te tira confeti.
 
 <br/>
 
-- Presta atención al ultimo texto que da el comando `version` ![version](image.png)
+- Presta atención al ultimo texto que da el comando `version` ![version](/assets/version.png)
 - Decodifica en Base64
 - La fecha te la da el comando `version`
 
