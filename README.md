@@ -388,8 +388,8 @@ Un simple comando que te tira confeti.
 
 ### Retos
 
-- [Reto 1](https://github.com/cosmoart/codember/blob/main/2024/challenge01.md)
-- [Reto 2](https://github.com/cosmoart/codember/blob/main/2024/challenge02.md)
+- [Reto 1](https://github.com/cosmoart/codember/blob/main/2024/01.md)
+- [Reto 2](https://github.com/cosmoart/codember/blob/main/2024/02.md)
 
 
 ### Secretos
