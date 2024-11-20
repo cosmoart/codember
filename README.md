@@ -390,6 +390,7 @@ Un simple comando que te tira confeti.
 
 - [Reto 1](https://github.com/cosmoart/codember/blob/main/2024/01.md)
 - [Reto 2](https://github.com/cosmoart/codember/blob/main/2024/02.md)
+- [Reto 3](https://github.com/cosmoart/codember/blob/main/2024/03.md)
 
 
 ### Secretos
@@ -465,6 +466,55 @@ Un simple comando que te tira confeti.
 
 - Usa el comando `sudo` para iniciar sesión como administrador.
 - Elimina al hacker que va ganando.
+
+<br/>
+</details>
+
+
+<details>
+<summary>💣 7) Invocador del Caos</summary>
+
+<br/>
+
+- 💣
+- Lee el archivo ``ghost.txt`` de ``public``.
+- Hay diferentes tipos de bombas, envía la bomba de bash.
+- Usa el comando `submit` para enviar tu respuesta a la adivinanza.
+- La estructura del comando a enviar sería así: `submit ____ :|:_ ___`
+- Cuidado con los espacios en blanco.
+
+<br/>
+</details>
+
+
+<details>
+<summary>🚨 8) Error inesperado</summary>
+
+<br/>
+
+- Usa el comando `sudo` para iniciar sesión como administrador.
+- Prueba los nuevos comandos.
+- Decodifica en Base64
+
+<br/>
+</details>
+<details>
+<summary>👨‍💻 9) Admin ejemplar</summary>
+
+<br/>
+
+- Habilita el nuevo comando. Puedes ver todos los comandos con el comando ``help``.
+- Usa el comando `sudo` para iniciar sesión como administrador.
+
+<br/>
+</details>
+<details>
+<summary>🏓 10) Ping Pong</summary>
+
+<br/>
+
+- Para este secreto necesitas haber resuelto el secreto #09.
+- Usa el comando `ping` a una página web de midudev en concreto.
 
 <br/>
 </details>
