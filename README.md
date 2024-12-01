@@ -391,6 +391,8 @@ Un simple comando que te tira confeti.
 - [Reto 1](https://github.com/cosmoart/codember/blob/main/2024/01.md)
 - [Reto 2](https://github.com/cosmoart/codember/blob/main/2024/02.md)
 - [Reto 3](https://github.com/cosmoart/codember/blob/main/2024/03.md)
+- [Reto 4](https://github.com/cosmoart/codember/blob/main/2024/04.md)
+- [Reto 5](https://github.com/cosmoart/codember/blob/main/2024/05.md)
 
 
 ### Secretos
@@ -518,9 +520,47 @@ Un simple comando que te tira confeti.
 
 <br/>
 </details>
+<details>
+<summary>😺 11) Gato</summary>
+
+<br/>
+
+- Revisa la segunda pista de la versión 1.0.0 (usa el comando `version`).
+
+<br/>
+</details>
+<details>
+<summary>🐈 12) Miau</summary>
+
+<br/>
+
+- Revisa el primer mail (usa el comando `mail`).
+- Revisa los metadatos con cualquier herramienta online.
+
+<br/>
+</details>
+<details>
+<summary>🪐 13) mars.codes</summary>
+
+<br/>
+
+- Revisa los mails 4 y 5.
+- Combina las coordenadas de los mails.
+
+<br/>
+</details>
 
 </details>
 
+
+## 2025
+
+<details>
+<summary>Proximamente...</summary>
+
+<br/>
+
+</details>
 
 <br/>
 
